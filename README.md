@@ -11,5 +11,5 @@
 ![Screenshot 2024-05-17 030225](https://github.com/rootL0r/Process-Injection/assets/157466888/941d630b-fdc5-4801-a6e5-0ac48e8020ea)
 
 ```sh
-                        "Remember, all actions taken for educational purposes."
+                         "Remember, all actions taken for educational purposes."
 ```
